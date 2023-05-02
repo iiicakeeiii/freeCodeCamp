@@ -1,0 +1,52 @@
+
+<style>
+div.fret-board {
+  padding: 1px 0;
+  background-color: #f5f0a0;
+  width: 50%;
+  border-left: 2px solid black;
+}
+
+
+.str-1 {
+  border-top: 0.3mm solid #a3a3a0;
+  margin: 1px 0 5px 0;
+}
+.str-2 {
+  border-top: 0.4mm solid #a3a3a0;
+  margin: 0 0 5px 0;
+}
+.str-3 {
+  border-top: 0.5mm solid #a3a3a0;
+  margin: 0 0 5px 0;
+}
+.str-4 {
+  border-top: 0.6mm solid #c3c3a0;
+  margin: 0 0 5px 0;
+}
+.str-5 {
+  border-top: 0.7mm solid #c3c3a0;
+  margin: 0 0 5px 0;
+}
+.str-6 {
+  border-top: 0.8mm solid #c3c3a0;
+  margin: 0 0 1px 0;
+}
+
+.marker-1 {
+  border: 0.15em solid blue;
+  border-radius: 50%;
+  position: absolute;
+  margin-top: 0.13em;
+  
+}
+
+.marker-2 {
+  border: 0.15em solid red;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 0.13em;
+  
+}
+</style>

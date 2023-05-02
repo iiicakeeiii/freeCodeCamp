@@ -1,0 +1,11 @@
+input {
+  margin: 2px;
+}
+fieldset {
+  padding: 2rem;
+  border: none
+}
+
+legend {
+  text-align: ;
+}

@@ -1,0 +1,118 @@
+p {
+    margin : 0;
+}
+
+/*Red*/
+.whole-r {
+    background-color: rgb(255, 0, 0);
+}
+
+.third-quart-r {
+    background-color: rgb(191,0,0);
+}
+
+.median-r {
+    background-color: rgb(127,0,0);
+}
+
+.quart-r {
+    background-color: rgb(63,0,0);
+}
+
+.d8th-r {
+    background-color: rgb(31,0,0);
+}
+
+.d16th-r {
+    background-color: rgb(15,0,0);
+}
+
+.d32nd-r {
+    background-color: rgb(7,0,0);
+}
+
+.d64th-r {
+    background-color: rgb(3,0,0);
+}
+
+.d128th-r {
+    background-color: rgb(1,0,0);
+}
+
+/*Green*/
+.whole-g {
+    background-color: rgb(0, 255, 0);
+}
+
+.third-quart-g {
+    background-color: rgb(0,191,0);
+}
+
+.median-g {
+    background-color: rgb(0,127,0);
+}
+
+.quart-g {
+    background-color: rgb(0,63,0);
+}
+
+.d8th-g {
+    background-color: rgb(0,31,0);
+}
+
+.d16th-g {
+    background-color: rgb(0,15,0);
+}
+
+.d32nd-g {
+    background-color: rgb(0,7,0);
+}
+
+.d64th-g {
+    background-color: rgb(0,3,0);
+}
+
+.d128th-g {
+    background-color: rgb(0,1,0);
+}
+
+/*Blue*/
+.whole-b {
+    background-color: rgb(0, 0, 255);
+}
+
+.third-quart-b {
+    background-color: rgb(0,0,191);
+}
+
+.median-b {
+    background-color: rgb(0,0,127);
+}
+
+.quart-b {
+    background-color: rgb(0,0,63);
+}
+
+.d8th-b {
+    background-color: rgb(0,0,31);
+}
+
+.d16th-b {
+    background-color: rgb(0,0,15);
+}
+
+.d32nd-b {
+    background-color: rgb(0,0,7);
+}
+
+.d64th-b {
+    background-color: rgb(0,0,3);
+}
+
+.d128th-b {
+    background-color: rgb(0,0,1);
+}
+
+.none {
+    background-color: black;
+}
